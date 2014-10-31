@@ -1,4 +1,5 @@
-site :opscode
+source "http://berksapi.drillinginfo.com"
+source "https://supermarket.getchef.com"
 
 metadata
 
